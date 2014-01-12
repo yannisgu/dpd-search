@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com:yannisgu/dpd-search.git"
+    "url": "git://github.com:yannisgu/dpd-search.git" 
   },
   "author": {
     "name": "Yannis Guedel"
