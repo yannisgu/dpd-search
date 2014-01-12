@@ -1,0 +1,26 @@
+{
+  "name": "dpd-search",
+  "version": "0.0.1",
+  "description": "provides functionality to search a deployd collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:yannisgu/dpd-search.git"
+  },
+  "author": {
+    "name": "Yannis Guedel"
+  },
+  "license": "MIT",
+  "dependencies": {
+      "mongojs": 1
+  },
+    "devDependencies": {
+        "grunt-cli": ""   ,
+        "grunt": ""  ,
+        "npm": ""
+    },
+  "readmeFilename": "README.md"
+}
