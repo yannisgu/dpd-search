@@ -1,6 +1,6 @@
 {
   "name": "dpd-search",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "provides functionality to search a deployd collection",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "dependencies": {
-      "mongojs": 1
+      "mongojs": ""
   },
     "devDependencies": {
         "grunt-cli": ""   ,
