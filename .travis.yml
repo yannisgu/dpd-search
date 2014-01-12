@@ -4,7 +4,7 @@ branches:
   - master
 env: 
   global: 
-    secure: aPDwBjAUky3wVkMP0UMxbjVmtZZER9p2Jt40zXw2xvjmCJC3lEI4vpF1PG5RcJIy+SUrc3pem4N3OxtEnFwOad/E2SW9AcY9JDc7wGrncOaNWJ60SBGn9NPwVLFNpxsYBLvMTlnqbMvLSqceyOP1t3H6bI8oEmenT7RL7Yli2Ss=
+   secure: "cq+PC0CRoJjoL693bBFO1tllw/yC7sgwb1CnuzWHakuyGRFrpbmQravk5I3ns5oXJTSP0wfl1B3uwf3q4PGiXglHJUGMsxbCC2oGlfFwwjSq52Jrs2pAfBeee02VJV3OT08Ae380jjp1eL3OckBPAGdC5tVfQ6JxYDfmBB5oFRk="
 script: ./node_modules/.bin/grunt publish
 node_js: 
 - "0.10"
